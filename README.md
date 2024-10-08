@@ -1,4 +1,6 @@
 # MoviesListApplication
+Front end practice to go with business logic of similar name
+--Udemy Course 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
 
